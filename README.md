@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 Welcome to My GitHub Profile!
+
+Here is the latest project I’ve worked on:
+
+[Berlin Services City Agent](https://github.com/SvenDjokic/final-project-berlin-city-agent)
+Agentic AI chatbot that scrapes official Berlin city data and provides dynamic, real-time answers to users — leveraging Pinecone for vector storage and large language models for summarization.
+
+You can connect with me via [my LinkedIn profile](https://www.linkedin.com/in/svendjokic/)
 
 <!--
 **SvenDjokic/SvenDjokic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
